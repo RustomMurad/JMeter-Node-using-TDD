@@ -1,17 +1,17 @@
 //https://www.npmjs.com/package/mocha-typescript
 
 /**
- * Desenvolvimento orientado a testes.
+ * Test-driven development.
  *
- * Aplicação simples que tem como objetivo conectar ao site de testes
- * redmine.org, fazer login, acessar uma tarefa e por fim, logout.
+ * Simple application that aims to connect to the test site
+ * redmine.org, log in, access a task, and finally logout.
  *
- * Os Testes realizados aqui foram primeiro feitos através da ferramenta
- * de testes JMeter
+ * The tests performed here were first made through the tool
+ * JMeter testing
  *
- * Para testar as classes use o comando no terminal: npm test
+ * To test the classes use the command in the terminal: npm test
  *
- * Para rodar a plicação, use o comando no terminal: npm start
+ * To run the application, use the command in the terminal: npm start
  */
 
 import { User } from "./modules/User";
